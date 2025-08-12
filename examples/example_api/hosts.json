@@ -1,0 +1,22 @@
+{
+    "172.17.0.2": {
+        "username": "root",
+        "password": "admin123",
+        "private_key_path": ""
+    },
+    "127.0.0.1:8302": {
+        "username": "hacker",
+        "password": "hacker123",
+        "private_key_path": ""
+    },
+    "172.17.0.4:22": {
+        "username": "root",
+        "password": "admin123",
+        "private_key_path": ""
+    },
+    "test.kali.localhost.com:8304": {
+        "username": "abcdefghigkl",
+        "password": "admin123",
+        "private_key_path": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "upload": "Upload a file from the local host to the remote host",
+    "download": "Download a file from the remote host to the local host",
+    "shell": "Select a target to open a pseudo terminal and enter the shell interaction of the remote host",
+    "adduser": "Add user on remote host",
+    "lnsshd": "Softly connect the sshd of the remote host to su",
+    "bind shell": "Open a port on the remote host to connect to the shell",
+    "change passwd": "Change the user password of the remote host",
+    "query perm": "Query some sensitive permissions of the remote host",
+    "local": "Run a local shell command on your attacking machine",
+    "clear": "clear screen",
+    "help": "Output the help document manual",
+    "exit": "Exit the system"
+}

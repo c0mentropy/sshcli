@@ -1,0 +1,22 @@
+{
+    "192.168.75.142:8301": {
+        "username": "root",
+        "password": "",
+        "private_key_path": "/root/.ssh/id_rsa"
+    },
+    "192.168.75.142:8302": {
+        "username": "root",
+        "password": "",
+        "private_key_path": "/root/.ssh/id_rsa"
+    },
+    "192.168.75.142:8303": {
+        "username": "root",
+        "password": "admin123",
+        "private_key_path": "/root/.ssh/id_rsa_2"
+    },
+    "192.168.75.142:8304": {
+        "username": "root",
+        "password": "root123",
+        "private_key_path": ""
+    }
+}

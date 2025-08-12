@@ -1,0 +1,5 @@
+include sshcli/conf/*
+include .assets/*
+include README-EN.md
+include VERSION.md
+include TODO.md
